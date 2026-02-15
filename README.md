@@ -1,4 +1,4 @@
-# Todo App
+# Todos
 
 A simple todo app built with Next.js, React, TypeScript, and Tailwind CSS.
 
